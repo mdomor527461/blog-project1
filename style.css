@@ -1,0 +1,247 @@
+*{
+    box-sizing:border-box;
+    margin:0px;
+    padding:0px;
+}
+.top-image{
+  margin-top:50px;  
+
+}
+.natural{
+    height: 400px;
+    width: 33.33%;
+}
+
+.sea{
+    height: 400px;
+    width: 33.33%;
+}
+.hill{
+    height: 400px;
+    width: 32.33%;
+}
+.header{
+    padding:10px;
+    margin-top:20px;
+    margin-left:40px;
+}
+.header h1{
+    text-transform: uppercase;
+    color:red;
+    font-size: 80px;
+}
+.header h1::first-letter{
+    font-size: 150px;
+}
+.header h3{
+    color:red;
+    font-size:40px;
+    font-weight: bold;
+}
+
+.capital h2{
+    font-size: 40px;
+    font-weight: bold;
+    padding:20px;
+}
+.dhaka{
+    width: 60%;
+    margin-top: 40px;
+    height: 400px;
+    display: flex;
+    align-items: center;
+}
+.capital p{
+    padding:20px;
+    font-size: 25px;
+    font-weight:bold;
+    margin-right:200px;
+    margin-left:20px;
+    
+}
+.people h2{
+    font-size: 40px;
+    font-weight: bold;
+    padding:20px;
+}
+.bd-people{
+    width: 60%;
+    margin-top: 40px;
+    height: 400px;
+    display: flex;
+    align-items: center;
+}
+.people p{
+    padding:20px;
+    font-size: 25px;
+    font-weight:bold;
+    margin-right:200px;
+    margin-left:20px;
+    
+}
+.culture h2{
+    font-size: 40px;
+    font-weight: bold;
+    padding:20px;
+}
+.bd-culture{
+    width: 60%;
+    margin-top: 40px;
+    height: 400px;
+    display: flex;
+    align-items: center;
+}
+.culture p{
+    padding:20px;
+    font-size: 25px;
+    font-weight:bold;
+    margin-right:200px;
+    margin-left:20px;
+    
+}
+.tradition h2{
+    font-size: 40px;
+    font-weight: bold;
+    padding:20px;
+}
+.bd-tradition{
+    width: 60%;
+    margin-top: 40px;
+    height: 400px;;
+    display: flex;
+    align-items: center;
+}
+.tradition p{
+    padding:20px;
+    font-size: 25px;
+    font-weight:bold;
+    margin-right:200px;
+    margin-left:20px;
+    
+}
+.history h2{
+    font-size: 40px;
+    font-weight: bold;
+    padding:20px;
+}
+.bd-history{
+    width: 60%;
+    margin-top: 40px;
+    height: 400px;
+    display: flex;
+    align-items: center;
+}
+.history p{
+    padding:20px;
+    font-size: 25px;
+    font-weight:bold;
+    margin-right:200px;
+    margin-left:20px;
+    
+}
+.religion h2{
+    font-size: 40px;
+    font-weight: bold;
+    padding:20px;
+}
+.bd-religion{
+    width: 60%;
+    margin-top: 40px;
+    height: 400px;
+    display: flex;
+    align-items: center;
+}
+.religion p{
+    padding:20px;
+    font-size: 25px;
+    font-weight:bold;
+    margin-right:200px;
+    margin-left:20px;
+    
+}
+.beautiful-places h2{
+    font-size: 40px;
+    font-weight: bold;
+    padding:20px;
+}
+.bd-beautiful-places{
+    width: 60%;
+    margin-top: 40px;
+    height: 400px;
+    display: flex;
+    align-items: center;
+}
+.beautiful-places p{
+    padding:20px;
+    font-size: 25px;
+    font-weight:bold;
+    margin-right:200px;
+    margin-left:20px;
+    
+}
+.economy h2{
+    font-size: 40px;
+    font-weight: bold;
+    padding:20px;
+}
+.bd-economy{
+    width: 60%;
+    margin-top: 40px;
+    height: 400px;
+    display: flex;
+    align-items: center;
+}
+.economy p{
+    padding:20px;
+    font-size: 25px;
+    font-weight:bold;
+    margin-right:200px;
+    margin-left:20px;
+    
+}
+.revolution h2{
+    font-size: 40px;
+    font-weight: bold;
+    padding:20px;
+}
+.bd-revolution{
+    width: 60%;
+    margin-top: 40px;
+    height: 400px;
+    display: flex;
+    align-items: center;
+}
+.revolution p{
+    padding:20px;
+    font-size: 25px;
+    font-weight:bold;
+    margin-right:200px;
+    margin-left:20px;
+    
+}
+.footer{
+    height: 250px;
+    width: 100%;
+    background-color:rgb(22, 20, 20);
+    margin-top:40px;
+    color:white;
+
+}
+.footer p{
+    text-align: center;
+}
+ .nav1 a{
+    display:inline;
+    text-decoration: none;
+    color:white;
+    float:left;
+    transform: translate(100px,0px);
+}
+.nav2 a{
+    display:inline;
+    text-decoration: none;
+    color:white;
+    float:right;
+    transform: translate(-100px,-100px);
+}
+
